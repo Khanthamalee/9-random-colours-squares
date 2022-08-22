@@ -1,3 +1,4 @@
+import { startTransition } from "react";
 
 //https://lnwquiz.com/post/1083/เขียนโค้ดสุ่มตัวเลขและตัวอักษรไม่ซ้ำด้วยภาษา-JavaScript?fbclid=IwAR21aBjcUH8jLsPVbB2l6YxGd1ToxUu89pDfrDx-vHwzppDIHwgHUNtsPRk
 function Randomcolours(length) {
