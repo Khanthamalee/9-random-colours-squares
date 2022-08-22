@@ -32,4 +32,4 @@ function squares(x,y,width,hight){
         return context;
     }
 // จุดเริ่มต้นแกน x.y
-squares(20,20,130,130)
+squares(10,20,130,130)
