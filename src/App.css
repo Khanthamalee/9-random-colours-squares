@@ -49,12 +49,12 @@ body{
   font-size: 1em;
   padding: 1em 2em;
   margin-top: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   -webkit-appearance: none;
   appearance: none;
   background-color: #ff0081;
   color: #fff;
-  border-radius: 10px;
+  border-radius: 8px;
   border: none;
   cursor: pointer;
   position: relative;
