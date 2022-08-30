@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/9-random-colours-squares/static/css/main.9e1d73cf.css",
-    "main.js": "/9-random-colours-squares/static/js/main.a5d956a2.js",
-    "static/js/787.d3f186bb.chunk.js": "/9-random-colours-squares/static/js/787.d3f186bb.chunk.js",
-    "index.html": "/9-random-colours-squares/index.html",
-    "main.9e1d73cf.css.map": "/9-random-colours-squares/static/css/main.9e1d73cf.css.map",
-    "main.a5d956a2.js.map": "/9-random-colours-squares/static/js/main.a5d956a2.js.map",
-    "787.d3f186bb.chunk.js.map": "/9-random-colours-squares/static/js/787.d3f186bb.chunk.js.map"
+    "main.css": "/9-random-colours-squares-no-connect-API/static/css/main.da9af31f.css",
+    "main.js": "/9-random-colours-squares-no-connect-API/static/js/main.49b758fe.js",
+    "static/js/787.d3f186bb.chunk.js": "/9-random-colours-squares-no-connect-API/static/js/787.d3f186bb.chunk.js",
+    "index.html": "/9-random-colours-squares-no-connect-API/index.html",
+    "main.da9af31f.css.map": "/9-random-colours-squares-no-connect-API/static/css/main.da9af31f.css.map",
+    "main.49b758fe.js.map": "/9-random-colours-squares-no-connect-API/static/js/main.49b758fe.js.map",
+    "787.d3f186bb.chunk.js.map": "/9-random-colours-squares-no-connect-API/static/js/787.d3f186bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e1d73cf.css",
-    "static/js/main.a5d956a2.js"
+    "static/css/main.da9af31f.css",
+    "static/js/main.49b758fe.js"
   ]
 }
