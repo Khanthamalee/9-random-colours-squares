@@ -27,10 +27,6 @@ function Squares(x,y,width,hight){
             // เติมสีรูปสี่เหลี่ยมจาการสุ่มสี
             context.fillStyle = "#"+Randomcolours(6);
             context.fillRect(x+i*(width+40), y+j*(hight+40), width, hight);
-            token += j*10+i+context.fillStyle
-            console.log(j,i,context.fillStyle)
-            console.log(token)
-            document.getElementById("token").innerHTML = token;
             }
         }
         return context;
