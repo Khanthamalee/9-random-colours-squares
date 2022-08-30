@@ -20,7 +20,6 @@ function Squares(x,y,width,hight){
     // สร้างสี่เหลี่ยมเก็บไว้ในตัวแปร context
     let context = canvas.getContext('2d');
     // สร้างแถวสามแถวจากตัวแปร j
-    let token = '';
     for (let j=0; j<3; j++){
         // สร้างแถวสามคอลัมภ์จากตัวแปร i
         for (let i=0; i<3; i++){
